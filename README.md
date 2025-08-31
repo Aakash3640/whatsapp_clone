@@ -14,7 +14,7 @@ It is a **UI-only project** (no backend integration yet) created to practice **F
 - 🔹 **Calls screen UI** with call history  
 - 🔹 **Floating Action Button (FAB)** similar to WhatsApp  
 - 🔹 **Material Design** + modern Flutter UI components  
-- 🔹 **Responsive layouts** for Android & iOS  
+- 🔹 **Responsive layouts** for Android, iOS & Web
 
 ---
 
