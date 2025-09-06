@@ -44,4 +44,10 @@ It is a **UI-only project** (no backend integration yet) created to practice **F
 
 
 
-
+🤝 Contributing
+- Contributions are always welcome!
+- Fork this repository 🍴
+- Create your feature branch 🌱
+- Commit your changes 💡
+- Push to the branch 🚀
+- Open a Pull Request 🎉
